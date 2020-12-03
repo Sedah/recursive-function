@@ -31,7 +31,7 @@ function exponent(num: number,expo: number): number {
     if (expo==0){
         return 1
     }
-    //currently not handle negatiove power
+    //currently not handle negative power
     else if (expo<0){
         return -1
     }
